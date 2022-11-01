@@ -1,0 +1,4 @@
+h1 { color: #aaaaaa; } 
+h2 { color: #9de4bb; } 
+h3 { color: #26f775; } input[type="radio"] ~ label { color: #0dff92; } 
+button { background-color: #4caf50; /* Green */ border: none; color: #857680; padding: 15px 32px; text-align: center; font-size: 16px; } .msg_success { color: #4f8a10; background-color: #dff2bf; } .msg_warning { color: #9f6000; background-color: #feefb3; } .msg_error { color: #d8000c; background-color: #ffd2d2; } 
